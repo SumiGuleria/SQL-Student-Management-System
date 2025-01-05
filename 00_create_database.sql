@@ -1,0 +1,2 @@
+CREATE DATABASE StudentmanagementSystem;
+USE StudentmanagementSystem;
